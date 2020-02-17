@@ -1,1 +1,2 @@
-### This folder contains old versions of the project file.
+## old_versions
+This folder contains old files no longer used.
